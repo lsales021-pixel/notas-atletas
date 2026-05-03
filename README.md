@@ -12,14 +12,14 @@ Cálculo da Média: Soma as três notas restantes e divide por três.
 
 Exibição: Formata o resultado para mostrar o nome, todas as notas originais e a média final calculada.
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 Linguagem: JavaScript.
 
 Estruturas de Dados: Objetos (para atletas) e Arrays (para notas).
 
 Métodos Principais: .sort() (ordenação), .slice() (recorte), .forEach() (iteração) e .join() (formatação de texto).
 
-🚀 Como Executar o Projeto
+Como Executar o Projeto
 Existem duas formas principais de rodar o arquivo notas-atletas.js:
 
 Opção 1: Pelo Terminal (Node.js)
@@ -46,7 +46,7 @@ Vá até a aba Console.
 
 Cole todo o código do arquivo notas-atletas.js e pressione Enter.
 
-📌 Exemplo de Saída Esperada
+Exemplo de Saída Esperada
 Ao executar, o sistema retornará algo como:
 
 Atleta: Cesar Abascal
