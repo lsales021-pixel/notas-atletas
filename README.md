@@ -1,4 +1,4 @@
-#Notas dos Atletas
+#Notas dos Atletas.
 O objetivo deste projeto é calcular a média válida de uma competição de ginástica artística. Em competições oficiais, para evitar que notas muito extremas (muito altas ou muito baixas) distorçam o resultado, costuma-se descartar a maior e a menor pontuação.
 
 Como a lógica funciona:
